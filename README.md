@@ -236,4 +236,4 @@ This repository serves as the official landing page for DirectX 11. The software
 **Get the most recent version of DirectX 11 today!**
 
 ---
-**Last updated:** 2026-11-05 05:35:22 UTC
+**Last updated:** 2026-11-05 13:37:50 UTC
